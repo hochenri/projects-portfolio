@@ -10,3 +10,4 @@
 * [Speed dating experiment](https://github.com/hochenri/projects-portfolio/blob/main/Speed%20Dating%20Experiment.ipynb)
 # Others
 * [ASCII art generator](https://github.com/hochenri/image-to-ascii)
+* [Random password generator in HTML](https://github.com/hochenri/projects-portfolio/blob/main/Random%20Password%20Generator.html)
