@@ -10,4 +10,4 @@
 * [Speed dating experiment](https://github.com/hochenri/projects-portfolio/blob/main/Speed%20Dating%20Experiment.ipynb)
 # Web development
 ## Browser extensions
-* [Page Palette]([https://github.com/hochenri/image-to-ascii](https://chromewebstore.google.com/detail/page-palette/nmjembndejdkehmbigkdbipnclnbpjca?authuser=0&hl=en))
+* [Page Palette](https://chromewebstore.google.com/detail/page-palette/nmjembndejdkehmbigkdbipnclnbpjca?authuser=0&hl=en)
