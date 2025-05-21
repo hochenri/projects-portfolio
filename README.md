@@ -7,6 +7,7 @@
 * [ETL job for healthcare dataset creation](https://github.com/hochenri/projects-portfolio/blob/main/Healthcare%20ETL.ipynb)
 * [ETL job for weather anomalies dataset](https://github.com/hochenri/projects-portfolio/blob/main/Weather%20ETL.ipynb)
 ## Data analysis projects
+* [Flight Incidents Data From News Reports](https://lookerstudio.google.com/reporting/03e20fe5-95be-42b7-af53-85585c5510e0)
 * [Speed dating experiment](https://github.com/hochenri/projects-portfolio/blob/main/Speed%20Dating%20Experiment.ipynb)
 # Web development
 ## Browser extensions
