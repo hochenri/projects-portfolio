@@ -15,3 +15,4 @@
 * [TutoriaLibre](https://tutorialibre.com/)
 ## Browser extensions
 * [Page Palette](https://chromewebstore.google.com/detail/page-palette/nmjembndejdkehmbigkdbipnclnbpjca?authuser=0&hl=en)
+* [DevTheme Tester](https://chrome.google.com/webstore/detail/bodkbnljdhnboflanmdkfhdkmjlmnajm)
