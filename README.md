@@ -11,8 +11,8 @@
 * [Speed dating experiment](https://github.com/hochenri/projects-portfolio/blob/main/Speed%20Dating%20Experiment.ipynb)
 # Web development
 ## Websites and web apps
-* [Agilitas](https://agilitas.app/)
 * [TutoriaLibre](https://tutorialibre.com/)
 ## Browser extensions
 * [Page Palette](https://chromewebstore.google.com/detail/page-palette/nmjembndejdkehmbigkdbipnclnbpjca?authuser=0&hl=en)
 * [DevTheme Tester](https://chrome.google.com/webstore/detail/bodkbnljdhnboflanmdkfhdkmjlmnajm)
+* [HumanSearch: Anti-AI Overview Switch](https://chromewebstore.google.com/detail/humansearch-anti-ai-overv/oplnpdojhheoadgokjhfcdbcibjlnfck)
