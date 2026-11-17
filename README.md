@@ -50,7 +50,7 @@ and **machine learning** (image generation).
 | **[DevTheme Tester](https://chrome.google.com/webstore/detail/bodkbnljdhnboflanmdkfhdkmjlmnajm)** | Developer tool for **previewing websites in light and dark mode** without altering page CSS or browser settings. | JavaScript, Chrome Extensions API |
 | **[HumanSearch: Anti-AI Overview Switch](https://chromewebstore.google.com/detail/humansearch-anti-ai-overv/oplnpdojhheoadgokjhfcdbcibjlnfck)** | Extension that **removes AI overviews and sponsored content** from search results across Chrome, Edge, DuckDuckGo, and more. | JavaScript, Chrome Extensions API |
 
-> ✅ All extensions are **published on the Chrome Web Store** — not just toy projects.
+> ✅ All extensions are **published on the Chrome Web Store**.
 
 ---
 
